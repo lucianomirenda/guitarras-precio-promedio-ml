@@ -18,7 +18,7 @@ Una vez que obtuve los datos, los llevé a **Databricks** y utilicé **PySpark**
 
 ## **3. Almacenamiento en la base de datos de Databricks** 
 
-Transformé los datos en un **esquema estrella**, creando las tablas de **dimensiones** y **hechos**, y las almacené en una base de datos dentro de Databricks 🗃. 
+Transformé los datos en un **esquema estrella**, creando las tablas de **dimensiones** y **hechos**, y las almacené en una base de datos dentro de Databricks . 
 
 ## **4. Análisis con SQL dentro de Databricks** 
 
